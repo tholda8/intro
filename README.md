@@ -1,10 +1,3 @@
 
-### Neco
-## Neco
-# Neco
-idk
-
-<footer>
-footer
-
-</footer>
+# HI
+I'll be there to post the source code for my projects.
